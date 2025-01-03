@@ -1,5 +1,8 @@
+package test;
+
 public class git_test {
     public static void main(String[] args) {
-        System.out.println("hello world git commands");
+        System.out.println("welcome home guys");
+        System.out.println("hope everyone is fine");
     }
 }
