@@ -5,5 +5,7 @@ public class git_test {
         System.out.println("welcome home guys");
         System.out.println("hope everyone is fine");
         System.out.println("howdy dudegit s");
+        System.out.println("this is master branch");
+        System.out.println("this is child branch");
     }
 }
